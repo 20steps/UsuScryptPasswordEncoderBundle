@@ -23,10 +23,12 @@
     "require-dev": {
         "phpunit/phpunit": "@stable"
     },
-    "autoload": {
-        "psr-0": { "Usu\\ScryptPasswordEncoderBundle": "" }
-    },
     "config": {
         "bin-dir": "vendor/bin"
+    },
+    "autoload": {
+        "psr-0": {
+            "Usu\\": "src/"
+        }
     }
 }
