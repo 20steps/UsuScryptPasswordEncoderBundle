@@ -1,7 +1,7 @@
 UsuScryptPasswordEncoderBundle
 ==============================
 
-This Bundle provides a Symfony2 password encoder service that uses [scrypt](http://en.wikipedia.org/wiki/Scrypt) for password encoding.
+This Bundle provides a Symfony2 and Symfony3 password encoder service that uses [scrypt](http://en.wikipedia.org/wiki/Scrypt) for password encoding.
 
 [![Build Status](https://travis-ci.org/andreausu/UsuScryptPasswordEncoderBundle.png?branch=master)](https://travis-ci.org/andreausu/UsuScryptPasswordEncoderBundle) [![Latest Stable Version](https://poser.pugx.org/usu/scrypt-password-encoder-bundle/v/stable.svg)](https://packagist.org/packages/usu/scrypt-password-encoder-bundle) [![Total Downloads](https://poser.pugx.org/usu/scrypt-password-encoder-bundle/downloads.svg)](https://packagist.org/packages/usu/scrypt-password-encoder-bundle) [![License](https://poser.pugx.org/usu/scrypt-password-encoder-bundle/license.svg)](https://packagist.org/packages/usu/scrypt-password-encoder-bundle)
 
